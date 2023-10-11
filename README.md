@@ -9,6 +9,6 @@ Here the description of each file:
 <li><b>FDS_final.ipynb :</b>The code, with a description for each piece of code.</li>
 <li><b>FDS_Project_webapp :</b>In this directory you'll find a little application to run locally. The only thing you have to do is to enter in the repository and run "python runserver.py" (more information into the read.me file in the directory)</li>
 </lu>
-
+<br>
 Have fun! P.S. This is an example of output:
-![image](/example)
+![image](./example)
