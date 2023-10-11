@@ -10,7 +10,7 @@ Here the description of each file:
 <li><b>FDS_Project_webapp :</b>In this directory you'll find a little application to run locally. The only thing you have to do is to enter in the repository and run "python runserver.py" (more information into the read.me file in the directory)</li>
 </lu>
 <br>
-Have fun! P.S. This is an example of output:
+Have fun! P.S. This is an output example:
 <br>
-![My Example Image](./FDS_Project_webapp/FDS_project_2022/static/happy.jpeg)
+![My Example Image](FDS_Project_webapp/FDS_project_2022/static/happy.jpeg)
 
