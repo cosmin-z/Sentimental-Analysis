@@ -12,5 +12,5 @@ Here the description of each file:
 <br>
 Have fun! P.S. This is an example of output:
 <br>
-![My Example Image](./example.png)
+![My Example Image](./FDS_Project_webapp/FDS_project_2022/static/happy.jpeg)
 
