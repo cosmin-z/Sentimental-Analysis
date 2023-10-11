@@ -11,4 +11,4 @@ Here the description of each file:
 </lu>
 
 Have fun! P.S. This is an example of output:
-![Screenshot 2023-10-11 alle 19.18.46.png](Screenshot 2023-10-11 alle 19.18.46.png)
+![image](example)
