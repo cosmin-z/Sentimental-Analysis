@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="col">
+    <form action="{{ url_for('predictemotion') }}" method="POST" class="form-inline">
+        <div class="form-group">
+            <label class="my_label mr-2">Predict emotion: </label>
+            <div class="input-group">
+                <input class="box-input" type="text" name="inputsentence" autocomplete="off" placeholder="Type your feelings" />
+            </div>
+        </div>
+        <button class="btn btn-primary" type="submit">Predict</button>
+    </form>
+</div>
+
+<div class="col col-result">
+    <div>
+
+        {% if pictures == "positive" %}
+        <h3 class="h3-result">"{{ sentence }}"</h3>
+        <img src="../static/happy.jpeg" alt="positive emotion pic" class="img-rounded"/>
+        {% endif %}
+
+        {% if pictures == "negative" %}
+        <h3 class="h3-result">"{{ sentence }}"</h3>
+        <img src="../static/sad.jpeg" alt="negative emotion pic" class="img-rounded" />
+        {% endif %}
+
+    </div>
+    <strong class="text-result">{{ result }}</strong>
+</div>
+
+{% endblock %}
