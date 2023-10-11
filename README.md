@@ -11,4 +11,4 @@ Here the description of each file:
 </lu>
 <br>
 Have fun! P.S. This is an example of output:
-![image](./example)
+![image](./example.png)
