@@ -12,6 +12,6 @@ Here the description of each file:
 <br>
 Have fun! P.S. This is an output example:
 <br>
-![My Example Image](https://raw.github.com/cosmin-z/Sentimental-Analysis/main//FDS_Project_webapp/FDS_project_2022/static/happy.jpeg)
+![My Example Image](https://raw.github.com/cosmin-z/Sentimental-Analysis/main//FDS_Project_webapp/FDS_project_2022/static/happy.jpeg?raw=true)
 
 
